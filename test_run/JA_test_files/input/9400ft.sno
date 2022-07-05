@@ -1,0 +1,30 @@
+SMET 1.1 ASCII
+[HEADER]
+station_id       = S9400
+station_name     = Swat_9400ft_sensor
+latitude         = 35.178990
+longitude        = 72.368060
+altitude         = 2865.1
+easting          = 260326.696834
+northing         = 3896065.488628
+epsg             = 32643
+nodata           = -999
+tz               = 0
+creator          = JA- based on test file
+ProfileDate      = 2018-09-01T00:00:00
+HS_Last          = 0.000000
+SlopeAngle       = 0.00
+SlopeAzi         = 0.00
+nSoilLayerData   = 0
+nSnowLayerData   = 0
+SoilAlbedo       = 0.09
+BareSoil_z0      = 0.200
+CanopyHeight     = 0.00
+CanopyLeafAreaIndex = 0.000000
+CanopyDirectThroughfall = 1.00
+WindScalingFactor = 1.00
+ErosionLevel     = 0
+TimeCountDeltaHS = 0.000000
+fields           = timestamp TA RH VW DW SW LW PSUM
+[DATA]
+2018-01-01T00:00:00 270.78 11.003804380985558 1.8077 0.40705 0.0 188.2621 -0.0

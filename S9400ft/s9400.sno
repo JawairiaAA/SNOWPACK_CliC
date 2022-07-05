@@ -1,0 +1,36 @@
+SMET 1.1 ASCII
+[HEADER]
+station_id       = s9400
+station_name     = Swat_9400ft_sensor
+latitude         = 35.178990
+longitude        = 72.368060
+altitude         = 2865.1
+easting          = 260326.696834
+northing         = 3896065.488628
+epsg             = 32643
+nodata           = -999
+tz               = 0
+creator          = JA- based on test file
+ProfileDate      = 2018-09-01T00:00:00
+HS_Last          = 0.000000
+SlopeAngle       = 0.00
+SlopeAzi         = 0.00
+nSoilLayerData   = 7
+nSnowLayerData   = 0
+SoilAlbedo       = 0.09
+BareSoil_z0      = 0.200
+CanopyHeight     = 0.00
+CanopyLeafAreaIndex = 0.000000
+CanopyDirectThroughfall = 1.00
+WindScalingFactor = 1.00
+ErosionLevel     = 0
+TimeCountDeltaHS = 0.000000
+fields           = timestamp Layer_Thick  T  Vol_Frac_I  Vol_Frac_W  Vol_Frac_V  Vol_Frac_S Rho_S Conduc_S HeatCapac_S  rg  rb  dd  sp  mk mass_hoar ne CDot metamo
+[DATA]
+2018-09-01T00:00:00 4.000 274.161 0.000 0.001 0.010 0.989 2800.0 2.6 1100.00 10000 0.00 0.0 0.0 0 0.0 8 0 0
+2018-09-01T00:00:00 2.000 273.608 0.000 0.001 0.010 0.989 2700.0 2.6 1100.00 10000 0.00 0.0 0.0 0 0.0 4 0 0
+2018-09-01T00:00:00 1.000 274.289 0.000 0.005 0.010 0.985 2600.0 2.6 1100.00 10000 0.00 0.0 0.0 0 0.0 4 0 0
+2018-09-01T00:00:00 0.500 274.728 0.000 0.010 0.010 0.980 2600.0 2.6 1100.00 10000 0.00 0.0 0.0 0 0.0 4 0 0
+2018-09-01T00:00:00 0.250 274.473 0.000 0.030 0.010 0.960 2600.0 2.6 1100.00 10000 0.00 0.0 0.0 0 0.0 1 0 0
+2018-09-01T00:00:00 0.200 273.965 0.000 0.050 0.010 0.940 2600.0 2.6 1100.00 10000 0.00 0.0 0.0 0 0.0 1 0 0
+2018-09-01T00:00:00 0.050 273.765 0.000 0.050 0.010 0.940 2600.0 2.6 1100.00 10000 0.00 0.0 0.0 0 0.0 1 0 0
